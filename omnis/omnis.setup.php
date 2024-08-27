@@ -3,9 +3,9 @@
 [BEGIN_COT_EXT]
 Code=omnis
 Name=[SEDBY] Omnis
-Description=Service functions for the Omnis theme
+Description=Service functions for Omnis theme demo
 Version=1.00
-Date=2024-08-27
+Date=2024-08-16
 Author=Dmitri Beliavski
 Copyright=&copy; 2024 Dmitri Beliavski
 Notes=
@@ -18,15 +18,16 @@ Lock_members=12345AW
 
 [BEGIN_COT_EXT_CONFIG]
 gtm_id=01:string::GTM-XXXXXXXX:GTM Container ID
+microdata=02:radio::0:Enable Open Graph & Schema.org
 [END_COT_EXT_CONFIG]
 ==================== */
 
-/**
- * Omnis Plugin / Setup
- *
- * @version 1.00
- * @author SED.by
- * @copyright (c) 2024 SED.by
- */
+-/**
+- * Omnis Plugin / Setup
+- *
+- * @version 1.00
+- * @author SED.by
+- * @copyright (c) 2024 SED.by
+- */
 
 defined('COT_CODE') or die('Wrong URL');

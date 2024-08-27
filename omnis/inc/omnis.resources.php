@@ -22,3 +22,6 @@ $R['theme-vk-followers'] = 99;
 
 $R['theme-instagram-link'] = '#';
 $R['theme-instagram-followers'] = 99;
+
+$R['theme-telegram-link'] = '#';
+$R['theme-telegram-followers'] = 99;

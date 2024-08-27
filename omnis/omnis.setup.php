@@ -22,12 +22,12 @@ microdata=02:radio::0:Enable Open Graph & Schema.org
 [END_COT_EXT_CONFIG]
 ==================== */
 
--/**
-- * Omnis Plugin / Setup
-- *
-- * @version 1.00
-- * @author SED.by
-- * @copyright (c) 2024 SED.by
-- */
+/**
+ * Omnis Plugin / Setup
+ *
+ * @version 1.00
+ * @author SED.by
+ * @copyright (c) 2024 SED.by
+ */
 
 defined('COT_CODE') or die('Wrong URL');

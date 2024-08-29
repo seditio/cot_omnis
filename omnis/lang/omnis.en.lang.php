@@ -27,5 +27,6 @@ $L['info_desc'] = 'Extra functionality for the Omnis theme';
  */
 
  $L['theme-title'] = '';
+ $L['theme-subtitle'] = '';
  $L['theme-desc'] = '';
  $L['theme-desc-mini'] = '';

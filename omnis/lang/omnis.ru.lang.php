@@ -27,5 +27,6 @@ $L['info_desc'] = 'Дополнительный функционал для де
  */
 
  $L['theme-title'] = '';
+ $L['theme-subtitle'] = '';
  $L['theme-desc'] = '';
  $L['theme-desc-mini'] = '';
